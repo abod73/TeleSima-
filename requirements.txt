@@ -1,0 +1,8 @@
+Flask
+python-telegram-bot==20.8
+pymongo
+python-dotenv
+dnspython
+Flask-Cors
+beautifulsoup4 # For parsing, if needed by indexer/parser
+requests # For external API calls
